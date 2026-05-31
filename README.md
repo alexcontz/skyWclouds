@@ -49,4 +49,4 @@ If your platform does not ship GLAUX, porting the windowing/input layer to GLUT/
 - `LICENSE` — MIT
 
 ## License
-MIT
+See [LICENSE](LICENSE.md) for more details
